@@ -1,0 +1,50 @@
+.vlog1__herosection{
+    background-image: url('/public/images/yt3.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vlog2__herosection{
+    background-image: url('/public/images/yt4.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vlog3__herosection{
+    background-image: url('/public/images/yt1.JPG');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vlog4__herosection{
+    background-image: url('/public/images/yt2.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vlog_heading{
+    font-size: 37px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
